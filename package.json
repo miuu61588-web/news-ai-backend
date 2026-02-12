@@ -1,0 +1,8 @@
+{
+  "name": "news-ai-backend",
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.0.0",
+    "pdf-parse": "^1.1.1"
+  }
+}
